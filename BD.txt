@@ -1,2 +1,4 @@
 dbo.Agent
 dbo.AgentType
+dbo.Product
+dbo.ProductType
